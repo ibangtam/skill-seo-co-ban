@@ -21,6 +21,13 @@ description: Viết bài SEO tiếng Việt bản cơ bản từ dàn ý hoặc 
    - **Không gộp hai hãng / hai sản phẩm khác nhau vào một dòng** dù nguồn có gộp.
 2. **Không bịa** tên chuyên gia, trích dẫn, khách hàng, giải thưởng, nghiên cứu, số năm kinh
    nghiệm. Cần mà không có → để chỗ trống `[CẦN: trích dẫn bác sĩ …]`.
+   - **Không tự khẳng định về thương hiệu của người dùng** khi chưa có thông tin từ họ: quy trình
+     riêng ("bóc kim trước mặt khách", "kiểm định từng lô"), chính sách (bảo hành, hoàn tiền, sửa
+     miễn phí), cam kết, thiết bị, chứng chỉ, số khách đã phục vụ. Luật con số ở trên không bắt
+     được loại câu này vì nó không có số — nhưng nó vẫn là bịa. Chưa có căn cứ trong hồ sơ thương
+     hiệu hoặc lời người dùng → viết thành `[CẦN: xác nhận tiệm có … không]`.
+   - Viết xong, rà lại **từng câu có chủ ngữ là thương hiệu** ("Tiệm X…", "chúng tôi…", "tại X…"):
+     câu nào không trỏ được về hồ sơ thương hiệu hay lời người dùng thì đổi thành `[CẦN …]`.
 3. **Từ tuyệt đối bị chặn** (Luật Quảng cáo Việt Nam): *nhất, tốt nhất, duy nhất, số 1, hàng đầu,
    dẫn đầu, đầu tiên, vượt trội nhất, rẻ nhất, uy tín nhất…* khi nói về thương hiệu/sản phẩm của
    người dùng hoặc so sánh với đối thủ. Chỉ được dùng khi có chứng cứ hợp lệ (giấy chứng nhận,
@@ -136,7 +143,7 @@ Sinh khối `<script type="application/ld+json">` theo loại bài, chỉ điề
 | 4 | Phủ đủ chủ đề bắt buộc + có mục khác biệt | 15 |
 | 5 | Cấu trúc: 1 H1, H2/H3 đánh số, bảng, danh sách, FAQ | 10 |
 | 6 | Từ khoá tự nhiên, không nhồi | 10 |
-| 7 | 0 từ tuyệt đối không chứng cứ · 0 câu sáo chatbot | 10 |
+| 7 | 0 từ tuyệt đối không chứng cứ · 0 câu tự khẳng định về thương hiệu không căn cứ · 0 câu sáo chatbot | 10 |
 | 8 | E-E-A-T đủ theo mức rủi ro | 10 |
 
 **Đạt:** ≥80 (ngành rủi ro Cao: ≥85). Chưa đạt → sửa đúng tiêu chí thiếu rồi chấm lại.
